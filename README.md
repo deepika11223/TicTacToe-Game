@@ -47,11 +47,7 @@ automatically after each round.
     java TicTacToe
     ```
 
-------------------------------------------------------------------------
 
-## 📷 Screenshot (Example UI)
-
-(You can take a screenshot after running and add here)
 
 ------------------------------------------------------------------------
 
